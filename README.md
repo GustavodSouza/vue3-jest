@@ -1,4 +1,4 @@
-# vue3-with-jest
+# Teste unitário usando Jest.
 
 ## Project setup
 ```
